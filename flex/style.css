@@ -1,0 +1,15 @@
+.C1{
+    display: flex; /defininimos nuestro elemento/
+    flex-direction: row; /alineamos para que sean filas/
+    flex-wrap: wrap;
+    width: 250px;
+    height: 500px;
+    border: 10px solid plum;
+    justify-content: center;
+    align-items: center;
+    align-content: space-between;
+}
+
+#uno{
+    
+}
